@@ -1,1 +1,1 @@
-# Multimodal-Immersive-Environment-Resources-
+# Multimodal-Immersive-Environment-Resources
