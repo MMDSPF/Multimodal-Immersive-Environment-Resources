@@ -1,5 +1,15 @@
 # Multimodal-Immersive-Environment-Resources
 
+## Scene
+
+**Text2immersion: Generative immersive scene with 3d gaussians.**<br>
+*H Ouyang, K Heal, S Lombardi, T Sun.*<br>
+arxiv:2312.09242, 2023.
+
+**DreamScene: 3D Gaussian-based Text-to-3D Scene Generation via Formation Pattern Sampling.**<br>
+*H Li, H Shi, W Zhang, W Wu, Y Liao, L Wang, et al.*<br>
+ArXiv, 2024. 
+
 ## Wearable Photonics
 
 ### Wearable Electronics
