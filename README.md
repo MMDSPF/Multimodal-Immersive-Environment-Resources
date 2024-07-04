@@ -14,6 +14,12 @@ arxiv:2312.09242, 2023.
 *H Li, H Shi, W Zhang, W Wu, Y Liao, L Wang, et al.*<br>
 ArXiv, 2024. 
 
+## Audio Scene
+
+**Speak in the Scene: Diffusion-based Acoustic Scene Transfer toward Immersive Speech Generation.**<br>
+*M Kim, SW Chung, Y Ji, HG Kang, MS Choi.*<br>
+arxiv:2406.12688, 2024.
+
 ## Wearable Devices
 
 ### Wearable Electronics
