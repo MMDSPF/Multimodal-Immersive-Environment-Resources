@@ -1,4 +1,4 @@
-# Multimodal-Immersive-Environment-Resources
+# Multimodal-Immersive-Experiences-Resources
 
 ## Scene
 
