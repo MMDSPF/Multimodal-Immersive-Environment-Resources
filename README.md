@@ -20,6 +20,22 @@ ArXiv, 2024.
 *M Kim, SW Chung, Y Ji, HG Kang, MS Choi.*<br>
 arxiv:2406.12688, 2024.
 
+## VR
+
+**GPT-VR Nexus: ChatGPT-Powered Immersive Virtual Reality Experience.**<br>
+*J Chen, T Lan, B Li.*<br>
+IEEE VR, 2024.
+
+**Prompt Engineering, Tools and Methods for Immersive Experience Development.**<br>
+*A Rozo-Torres, WJ Sarmiento.*<br>
+IEEE VR, 2024.
+
+## ASMR
+
+**Neural Moderation of ASMR Erotica Content in Social Networks.**<br>
+*Y Chen, D Jiang, C Tan, Y Song, C Zhang, L Chen.*<br>
+IEEE Transactions on Knowledge and Data Engineering, 2023.
+
 ## Wearable Devices
 
 ### Wearable Electronics
