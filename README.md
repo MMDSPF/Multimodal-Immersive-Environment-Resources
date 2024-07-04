@@ -1,6 +1,10 @@
 # Multimodal-Immersive-Experiences-Resources
 
-## Scene
+## Vision Scene
+
+**Gaudi: A neural architect for immersive 3d scene generation.**<br>
+*MA Bautista, P Guo, S Abnar, et al.*<br>
+NeurIPS, 2022.
 
 **Text2immersion: Generative immersive scene with 3d gaussians.**<br>
 *H Ouyang, K Heal, S Lombardi, T Sun.*<br>
@@ -10,7 +14,7 @@ arxiv:2312.09242, 2023.
 *H Li, H Shi, W Zhang, W Wu, Y Liao, L Wang, et al.*<br>
 ArXiv, 2024. 
 
-## Wearable Photonics
+## Wearable Devices
 
 ### Wearable Electronics
 
